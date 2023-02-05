@@ -24,3 +24,9 @@
 /configure.log
 
 .DS_Store
+
+#PROS directories
+/include
+/firmware
+#PROS results
+*.zip

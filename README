@@ -1,4 +1,9 @@
-ZLIB DATA COMPRESSION LIBRARY
+# ZLIB compiled for VEX V5 (PROS)
+This repository contains builds of the common zlib library for the VEX V5 architecture, including PROS compatible library releases.
+
+All of the zlib documentation applies. The include path is `#include "zlib/zlib.h"`, other than that there are no modifications.
+
+# ZLIB DATA COMPRESSION LIBRARY
 
 zlib 1.2.13 is a general purpose data compression library.  All the code is
 thread safe.  The data format used by the zlib library is described by RFCs
